@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+
 
 int isPerfect(int n) {
     int sum = 0;
